@@ -27,11 +27,11 @@
 
 > [![](https://img.shields.io/badge/Visual_Studio_Code-blue?logo=Visual-Studio-Code&labelColor=ccc&logoColor=blue&style=flat-square)](https://code.visualstudio.com)
 
-> [![](https://img.shields.io/badge/Google_Chrome-orange?logo=Google-Chrome&labelColor=ccc&logoColor=orange&style=flat-square)](https://code.visualstudio.com)
+> [![](https://img.shields.io/badge/Google_Chrome-orange?logo=Google-Chrome&labelColor=ccc&logoColor=orange&style=flat-square)](https://www.google.com/chrome)
 
-> [![](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&labelColor=ccc&logoColor=4FC08D&style=flat-square)](https://code.visualstudio.com)
+> [![](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&labelColor=ccc&logoColor=4FC08D&style=flat-square)](https://vuejs.org)
 
-> [![](https://img.shields.io/badge/Element_UI-409eff?logo=Embarcadero&labelColor=ccc&logoColor=409eff&style=flat-square)](https://code.visualstudio.com)
+> [![](https://img.shields.io/badge/Element_UI-409eff?logo=Embarcadero&labelColor=ccc&logoColor=409eff&style=flat-square)](https://element.eleme.cn)
 
 > [![](https://img.shields.io/badge/Q-Qorm_Editor-grey?labelColor=ccc&style=flat-square)](https://github.com/qorm/editor)
 
@@ -39,7 +39,7 @@
 
 > [![](https://img.shields.io/badge/Debian_stable-903?logo=Debian&labelColor=ccc&logoColor=903&style=flat-square)](https://debian.org)
 
-> [![](https://img.shields.io/badge/HAProxy-green?logo=StackShare&labelColor=ccc&logoColor=green&style=flat-square)](https://debian.org)
+> [![](https://img.shields.io/badge/HAProxy-green?logo=StackShare&labelColor=ccc&logoColor=green&style=flat-square)](https://haproxy.org)
 
 > [![](https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&labelColor=ccc&logoColor=blue&style=flat-square)](https://postgresql.org)
 
