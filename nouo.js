@@ -21,7 +21,7 @@ require.config({
 })
 
 require(['markdown'], function () {
-  axios.post('./README.md').then(function (res) {
+  axios.get('./README.md').then(function (res) {
     if (res.status == 200) {
       markdown(document.getElementById('content'), res.data)
     }
